@@ -1,6 +1,6 @@
 Voici un tutoriel pour créer une dépendance MongoDB dans un projet Node.js :
 
-0. Installer mongodb version community [ici](https://www.mongodb.org/downloads)
+0. Installer mongodb version community [ici](https://www.mongodb.com/try/download/community)
 
 1. Initialisez un nouveau projet Node.js :
 ```bash
